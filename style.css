@@ -1,0 +1,46 @@
+body {
+    background :#BAD8B6;
+    font-family: times new roman;
+}
+
+hr {
+    border: none;
+    border-top-style: dotted;
+    width: 40%;
+    border-color: red;
+}
+h1, h2, h3 {
+    color: #E82561;
+}
+ul, table {
+    color : #C30E59;
+}
+img {
+    border: 4px solid;
+    border-radius: 50%;
+}
+a {
+    color: #F2AE66;
+}
+p, input {
+    color: #C30E59;
+}
+label {
+    color: #E82561;
+}
+input, textarea{
+    border: 2px solid;
+    padding : 3px;
+    border-radius: 5px;
+}
+form{
+    border-style : dotted;
+    padding : 10px;
+    align-items:center;
+}
+textarea {
+    border: 2px solid;
+    padding : 9px;
+    border-radius: 5px;
+    border-color:#E82561;
+}
