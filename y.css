@@ -1,0 +1,61 @@
+body{
+    margin :0;
+    text-align: center;
+    background: #6A80B9;
+}
+img {
+    position : absolute ;
+    left: 200;
+}
+.container {
+    background: #000957;
+    width: 300px;
+    height: 415px;
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 150px;
+    border-radius: 5px;
+    border: px solid;
+}
+.first-con {
+    margin: 0 auto;
+    background: white;
+    width : 300px;
+    height: 180px;
+    position: relative;
+    border-radius: 5px 5px 0 0;
+    border-top: px solid;
+}
+#img {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    position: relative;
+    padding: 2px;
+    border: 2px solid;
+    border-radius: 1000%;
+    top: 25px;
+    border-color: #000957;
+}
+h3, p {
+    color: white;
+    line-height: 0.9em;
+}
+button{
+    padding: 7px;
+    border-radius: 5px;
+    border: none;
+    background: #344CB7;
+    color: white;
+}
+#skills {
+    line-height: 0.1em;
+}
+#web {
+    line-height: 0.09em;
+}
+table {
+    color: white;
+}
+hr {
+   border-color:#344CB7 ;
+}
