@@ -1,5 +1,5 @@
 body {
-    font-family: "Montserrat";
+    font-family: "Montserrat-Bold";
 }
 
 #tittle {
@@ -19,15 +19,20 @@ h3 {
     font-family: popping;
     font-weight: bold;
 }
-p {
+h2 {
+    color: #fff;
+    font-size: 1rem;
+}
+#p {
     color: grey;
 }
 .navbar {
     padding-bottom: 2.5rem;
+    
 }
 .navbar-brand {
-    font-family: "Ubuntu"
-    font-size: 3rem;
+    font-family: "Ubuntu";
+    font-size: 1rem;
     font-weight: bold;
 }
 .nav-item {
@@ -62,14 +67,43 @@ p {
 .icon:hover {
     color: #F93827; 
 }
+
+/* testimonials */
+#testimonials {
+    background: #FF9D23;
+    padding : 9% 15%;
+    text-align: center;
+}
+.test {
+    border-radius: 1000%;
+    margin: 10px 15px;
+}
+
+.carousel-item {
+    padding : 7% 15%;
+}
+
+
 .footr{
     background : #000;
     text-align: center;
     margin: 0 auto;
-    margin-top: 15px;
+    margin-top: px;
     padding-bottom: 20px;
     width: 100%;
 }
 h4 {
     color: #fff;
+}
+
+/* pricing section */
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+.pricing-col {
+    padding: 3% 2%;
+}
+p {
+    font-size: 0.7rem;
 }
